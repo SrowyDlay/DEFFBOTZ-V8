@@ -7,16 +7,16 @@ Other*/
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6289501060783','6289501060783','6289501060783']
-global.footer = "Deffbotz ~ Deff"
-global.fake = "Deffbotz ~ Deff"
+global.owner = ['6285788029733','6285788029733','6285788029733']
+global.footer = "Ellzy ~ Deff"
+global.fake = "Ellzy ~ Deff"
 global.namebot = "SELLYBOTZ - DEFF"
 global.packname = "Selly Botz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 global.packname2 = "BY Ellzy ~ Selly"
 global.author = "Ellzy"
 global.email = "dyudhistira51@gmail.com"
-global.game = "Deffbotz Game"
-global.nameown = "©DEFF"
+global.game = "Sellybotz Game"
+global.nameown = "©ELLZY"
 global.resultwibu = "Nih kak Resultnya, Dasar Wibu"
 global.nameyt = "DEFFBOTZZ"
 global.instagram = "https://instagram.com/deff.xyz"
@@ -39,8 +39,8 @@ global.mess = {
     ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner'
 }
 global.BerryAwal = 5000
-global.limitAwal= 20
-global.gamewaktu = 50
+global.limitAwal= 20000
+global.gamewaktu = 500000
 global.waktu = 60000
 
 //-[❌Jangan Ubah bagian ini❌]
